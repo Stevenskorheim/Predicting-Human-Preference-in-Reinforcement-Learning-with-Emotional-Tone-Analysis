@@ -1,0 +1,3 @@
+This project explores the application of machine learning models, specifically logistic regression and decision trees, to analyze Reinforcement Learning from Human Feedback (RLHF) data. The aim is to uncover the underlying factors that humans find most objectionable in content, enhancing our understanding of human preferences and objectionable content detection.
+
+Through meticulous analysis, the project seeks to identify key coefficients and features that contribute to these perceptions. This initiative not only advances the field of NLP by providing insights into content moderation but also paves the way for developing more empathetic and aligned AI systems.
